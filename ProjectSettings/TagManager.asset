@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrangeable_Ground
+  - Furniture_001
+  - Furniture_003
+  - Arrangeable_Stack
+  - Furniture_Floor
+  - Untouchable
+  - Furniture_Touch
+  - Arrangeable_Wall
+  - Tile
+  - Chair
+  - Table
+  - Counter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ArrangeablePos
+  - Furniture_Floor
+  - Furniture_Wall
+  - Tile_Floor
+  - AI
+  - Tile_Wall
+  - Untouchable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
